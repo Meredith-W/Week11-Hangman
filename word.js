@@ -1,5 +1,5 @@
 // require your letter objects
-
+var letter = require('letter.js')
 var Word = function(wrd){
 // property to store the string wrd
 

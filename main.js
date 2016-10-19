@@ -1,5 +1,5 @@
 // require prompt to use to make the game 
-
+var game = require('game.js')
 //require the objects/exports you will use
 
 prompt.start();
